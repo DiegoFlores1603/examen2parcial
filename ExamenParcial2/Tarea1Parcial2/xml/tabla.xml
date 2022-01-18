@@ -1,0 +1,92 @@
+<Catalog>
+    <ESTUDIANTE>
+        <CEDULA>1301612382</CEDULA>
+        <NOMBRE>Matias Romero</NOMBRE>
+        <DIRECCION>Av de la Cultura</DIRECCION>
+        <TELEFONO>0965845965</TELEFONO>
+        <CORREO>maria@hotmail.com</CORREO>
+        <CURSO>9no</CURSO>
+        <PARALELO>B</PARALELO>
+    </ESTUDIANTE>
+    <ESTUDIANTE>
+        <CEDULA>1301612382</CEDULA>
+        <NOMBRE>Narcisa Romero</NOMBRE>
+        <DIRECCION>Av de la Cultura</DIRECCION>
+        <TELEFONO>0965845965</TELEFONO>
+        <CORREO>narcisa@hotmail.com</CORREO>
+        <CURSO>7mo</CURSO>
+        <PARALELO>A</PARALELO>
+    </ESTUDIANTE>
+    <ESTUDIANTE>
+        <CEDULA>1301612382</CEDULA>
+        <NOMBRE>Pablo Romero</NOMBRE>
+        <DIRECCION>Av de la Cultura</DIRECCION>
+        <TELEFONO>0965845965</TELEFONO>
+        <CORREO>pablo@hotmail.com</CORREO>
+        <CURSO>5to</CURSO>
+        <PARALELO>A</PARALELO>
+    </ESTUDIANTE>
+    <ESTUDIANTE>
+        <CEDULA>1301612382</CEDULA>
+        <NOMBRE>Roberto Romero</NOMBRE>
+        <DIRECCION>Av de la Cultura</DIRECCION>
+        <TELEFONO>0965845965</TELEFONO>
+        <CORREO>roberto@hotmail.com</CORREO>
+        <CURSO>10mo</CURSO>
+        <PARALELO>C</PARALELO>
+    </ESTUDIANTE>
+    <ESTUDIANTE>
+        <CEDULA>1301612382</CEDULA>
+        <NOMBRE>Mauricio Romero</NOMBRE>
+        <DIRECCION>Av de la Cultura</DIRECCION>
+        <TELEFONO>0965845965</TELEFONO>
+        <CORREO>mauricio@hotmail.com</CORREO>
+        <CURSO>1ro</CURSO>
+        <PARALELO>A</PARALELO>
+    </ESTUDIANTE>
+    <ESTUDIANTE>
+        <CEDULA>1301612382</CEDULA>
+        <NOMBRE>Carlos Romero</NOMBRE>
+        <DIRECCION>Av de la Cultura</DIRECCION>
+        <TELEFONO>0965845965</TELEFONO>
+        <CORREO>carlos@hotmail.com</CORREO>
+        <CURSO>3ro</CURSO>
+        <PARALELO>B</PARALELO>
+    </ESTUDIANTE>
+    <ESTUDIANTE>
+        <CEDULA>1301612382</CEDULA>
+        <NOMBRE>Luis Romero</NOMBRE>
+        <DIRECCION>Av de la Cultura</DIRECCION>
+        <TELEFONO>0965845965</TELEFONO>
+        <CORREO>Luis@hotmail.com</CORREO>
+        <CURSO>2do</CURSO>
+        <PARALELO>A</PARALELO>
+    </ESTUDIANTE>
+    <ESTUDIANTE>
+        <CEDULA>1301612382</CEDULA>
+        <NOMBRE>Franco Romero</NOMBRE>
+        <DIRECCION>Av de la Cultura</DIRECCION>
+        <TELEFONO>0965845965</TELEFONO>
+        <CORREO>franco@hotmail.com</CORREO>
+        <CURSO>6to</CURSO>
+        <PARALELO>A</PARALELO>
+    </ESTUDIANTE>
+    <ESTUDIANTE>
+        <CEDULA>1301612382</CEDULA>
+        <NOMBRE>Vicente Romero</NOMBRE>
+        <DIRECCION>Av de la Cultura</DIRECCION>
+        <TELEFONO>0965845965</TELEFONO>
+        <CORREO>vicente@hotmail.com</CORREO>
+        <CURSO>8vo</CURSO>
+        <PARALELO>A</PARALELO>
+    </ESTUDIANTE>
+    <ESTUDIANTE>
+        <CEDULA>1301612382</CEDULA>
+        <NOMBRE>Diego Veintimilla</NOMBRE>
+        <DIRECCION>Av de la Cultura</DIRECCION>
+        <TELEFONO>0965845965</TELEFONO>
+        <CORREO>diego@hotmail.com</CORREO>
+        <CURSO>5to</CURSO>
+        <PARALELO>A</PARALELO>
+    </ESTUDIANTE>
+</Catalog>
